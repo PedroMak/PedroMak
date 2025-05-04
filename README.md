@@ -1,3 +1,5 @@
+Hi, I'm Pedro! A Systems Analysis and Development student currently focusing my studies on AWS
+
 ## Social Media:
 <a href="https://www.linkedin.com/in/pedro-makhoul-a75329249">
   <img align="left" alt="pedromak's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
