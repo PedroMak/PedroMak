@@ -1,4 +1,4 @@
-Hi, I'm Pedro! A Systems Analysis and Development student currently focusing my studies on AWS
+Hi, I'm Pedro! A Systems Analysis and Development student currently focusing my studies on AWS and DevOps practices.
 
 ## Social Media:
 <a href="https://www.linkedin.com/in/pedro-makhoul-a75329249">
