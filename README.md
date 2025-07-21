@@ -23,5 +23,4 @@ Hi, I'm Pedro! A Systems Analysis and Development student currently focusing my 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📈 Statistics:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMak&layout=compact&theme=dracula" alt="PedroMak" />
+
